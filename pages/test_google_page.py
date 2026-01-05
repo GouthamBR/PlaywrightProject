@@ -1,0 +1,2 @@
+def getgoogle():
+    pass
